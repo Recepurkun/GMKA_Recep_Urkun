@@ -1,1 +1,3 @@
-# Python ile Doğal Dil Isleme icin repo
+## Python ile Doğal Dil Isleme icin repo
+
+![Words](/nlp/words.png)
