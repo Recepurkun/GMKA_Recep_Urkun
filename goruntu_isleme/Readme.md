@@ -1,1 +1,1 @@
-Python ile Goruntu Isleme icin repo
+# Python ile Goruntu Isleme icin repo
