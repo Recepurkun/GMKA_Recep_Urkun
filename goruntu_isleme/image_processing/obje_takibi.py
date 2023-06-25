@@ -1,4 +1,7 @@
-"""kameramiz üzerinden elimizi görüp belirttiğimiz eklem numaralarina göre onlarin üzerine daireler çizdiriyoruz"""
+"""
+##real time kamera ile obje takibi##
+kameramiz üzerinden elimizi görüp belirttiğimiz eklem numaralarina göre onlarin üzerine daireler çizdiriyoruz
+"""
 import cv2
 import time
 import mediapipe as mp
